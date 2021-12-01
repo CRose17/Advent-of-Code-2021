@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day01.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRose17/Advent-of-Code-2021.git"
+  },
+  "author": "Cameron Rosenberger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRose17/Advent-of-Code-2021/issues"
+  },
+  "homepage": "https://github.com/CRose17/Advent-of-Code-2021#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
